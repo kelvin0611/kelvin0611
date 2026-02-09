@@ -9,7 +9,7 @@
     I build <b>Web Apps</b>, tutor <b>STEM Projects</b>, and lead <b>Student Teams</b> to success. 🏆
   </h3>
   <h3>
-    If an idea sparks for <b>Community IT Projects</b>, chances are I'll dive in and make it happen. 🚀
+    I also use Figma for UI design and Notion when i want to sketch ideas 🚀
   </h3>
   
   <br/>
